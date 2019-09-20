@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Nav Transition</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="bottom_nav_transition_name">Bottom Nav transition name</string>
+    <string name="android_guy_transition_name">Android guy transition name</string>
+</resources>
