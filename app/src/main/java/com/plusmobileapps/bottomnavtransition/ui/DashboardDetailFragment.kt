@@ -1,4 +1,4 @@
-package com.plusmobileapps.bottomnavtransition.ui.dashboarddetail
+package com.plusmobileapps.bottomnavtransition.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
